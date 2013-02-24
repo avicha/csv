@@ -1,7 +1,7 @@
 {
   "name": "yi-csv",
   "version": "1.0.0",
-  "description": "read the csv file and transform to json format",
+  "description": "读取CSV文件，并把读取结果表示成JSON对象",
   "keywords": [
     "csv",
     "json"

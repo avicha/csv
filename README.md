@@ -1,7 +1,7 @@
 csv
 ===
 
-读取CSV文件，并把CSV内容转换成JSON对象
+读取CSV文件，并把读取结果表示成JSON对象
 ##安装
 <pre>
     npm -g install yi-csv
